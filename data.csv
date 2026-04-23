@@ -1,0 +1,21 @@
+skills,interest,education,career
+python;ml;statistics,ai,ug,Data Scientist
+python;deep learning;tensorflow,ai,pg,AI Engineer
+python;data analysis;excel,data,ug,Data Analyst
+python;pandas;numpy,data,ug,Data Analyst
+html;css;javascript,web,ug,Web Developer
+react;nodejs;javascript,web,pg,Full Stack Developer
+java;spring;sql,software,ug,Software Engineer
+c++;data structures;algorithms,software,ug,Software Engineer
+networking;security;linux,cybersecurity,ug,SOC Analyst
+ethical hacking;network security;linux,cybersecurity,pg,Security Engineer
+aws;docker;kubernetes,cloud,ug,Cloud Engineer
+azure;devops;ci/cd,cloud,pg,DevOps Engineer
+python;sql;tableau,data,ug,Data Analyst
+python;ml;nlp,ai,pg,NLP Engineer
+html;css;bootstrap,web,ug,Frontend Developer
+nodejs;mongodb;express,web,pg,Backend Developer
+linux;shell scripting;networking,cybersecurity,ug,System Administrator
+git;github;ci/cd,software,ug,DevOps Engineer
+python;flask;api,software,ug,Backend Developer
+java;android;ui,software,ug,Android Developer
